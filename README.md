@@ -11,3 +11,8 @@ The Repositiory covers the code of audio classification following the research p
 Feel free to raise/resolve issues or improvements
 
 Deep Learning Model: Model created from scratch
+
+# Terms including libraries:
+
+Deep Learning, CNN, IPython (Audio), Waveform, Librosa, Spectrogram, Mel-frequency Cepstral Coefficients (MFCCs), Chroma Feature, Confusion Matrix
+
