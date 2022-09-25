@@ -9,3 +9,5 @@ Dataset Downloaded from Kaggle: https://www.kaggle.com/datasets/mmoreaux/audio-c
 The Repositiory covers the code of audio classification following the research paper: https://arxiv.org/abs/1609.09430
 
 Feel free to raise/resolve issues or improvements
+
+Deep Learning Model: Model created from scratch
